@@ -1,0 +1,18 @@
+// custom font
+@font-face {
+    font-family: "Cool";
+    src: url('/fonts/junegull.ttf')  format('truetype');
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 10px;
+    font-family: 'Cool';
+}
+
+p {
+    margin: 0;
+}

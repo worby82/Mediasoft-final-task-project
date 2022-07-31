@@ -1,0 +1,9 @@
+.items-list {
+    display: flex;
+    justify-content: left;
+    // align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    column-gap: 15px;
+    row-gap: 15px;
+}

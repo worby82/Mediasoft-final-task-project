@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    flex-direction: column;
+
+    &__site-name {
+        text-align: center;
+        font-size: 28px;
+        color: red;
+    }
+}
